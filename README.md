@@ -10,15 +10,7 @@
 
 源
 
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
-
-镜像
-
-- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u")
-- [https://beijing-iptv.vercel.app/IPTV-Unicom.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom.m3u")
-- [https://beijing-iptv.pages.dev/IPTV-Unicom.m3u](https://beijing-iptv.pages.dev/IPTV-Unicom.m3u "https://beijing-iptv.pages.dev/IPTV-Unicom.m3u")
-- [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
-- [https://bjiptv.ga/IPTV-Unicom.m3u](https://bjiptv.ga/IPTV-Unicom.m3u "https://bjiptv.ga/IPTV-Unicom.m3u")
+- [https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom.m3u")
 
 
 ### 通用组播列表永久地址
@@ -27,19 +19,12 @@
 
 源
 
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
+- [https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
 
-镜像
-
-- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u")
-- [https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u")
-- [https://beijing-iptv.pages.dev/IPTV-Unicom-Multicast.m3u](https://beijing-iptv.pages.dev/IPTV-Unicom-Multicast.m3u "https://beijing-iptv.pages.dev/IPTV-Unicom-Multicast.m3u")
-- [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
-- [https://bjiptv.ga/IPTV-Unicom-Multicast.m3u](https://bjiptv.ga/IPTV-Unicom-Multicast.m3u "https://bjiptv.ga/IPTV-Unicom-Multicast.m3u")
 
 ### 节目列表来源
 1. 电视盒子抓包官方列表
-2. 组播地址[扫描](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/iptvscanner.7z "扫描")
+2. 组播地址[扫描](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/iptvscanner.7z "扫描")
 3. 交叉[参考](https://github.com/islercn/BeiJing-Unicom-IPTV-List "参考")
 
 ------------
@@ -52,15 +37,7 @@
 
 源
 
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u")
-
-镜像
-
-- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Mobile.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Mobile.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Mobile.m3u")
-- [https://beijing-iptv.vercel.app/IPTV-Mobile.m3u](https://beijing-iptv.vercel.app/IPTV-Mobile.m3u "https://beijing-iptv.vercel.app/IPTV-Mobile.m3u")
-- [https://beijing-iptv.pages.dev/IPTV-Mobile.m3u](https://beijing-iptv.pages.dev/IPTV-Mobile.m3u "https://beijing-iptv.pages.dev/IPTV-Mobile.m3u")
-- [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u")
-- [https://bjiptv.ga/IPTV-Mobile.m3u](https://bjiptv.ga/IPTV-Mobile.m3u "https://bjiptv.ga/IPTV-Mobile.m3u")
+- [https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Mobile.m3u](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Mobile.m3u "https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Mobile.m3u")
 
 
 ### 通用组播列表永久地址
@@ -69,18 +46,11 @@
 
 源
 
-- [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u")
+- [https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u "https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u")
 
-镜像
-
-- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Mobile-Multicast.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Mobile-Multicast.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Mobile-Multicast.m3u")
-- [https://beijing-iptv.vercel.app/IPTV-Mobile-Multicast.m3u](https://beijing-iptv.vercel.app/IPTV-Mobile-Multicast.m3u "https://beijing-iptv.vercel.app/IPTV-Mobile-Multicast.m3u")
-- [https://beijing-iptv.pages.dev/IPTV-Mobile-Multicast.m3u](https://beijing-iptv.pages.dev/IPTV-Mobile-Multicast.m3u "https://beijing-iptv.pages.dev/IPTV-Mobile-Multicast.m3u")
-- [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u")
-- [https://bjiptv.ga/IPTV-Mobile-Multicast.m3u](https://bjiptv.ga/IPTV-Mobile-Multicast.m3u "https://bjiptv.ga/IPTV-Mobile-Multicast.m3u")
 
 ### 节目列表来源
-1.  组播地址[扫描](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/iptvscanner.7z "扫描")
+1.  组播地址[扫描](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/iptvscanner.7z "扫描")
 
 
 ------------
@@ -92,10 +62,10 @@
 4. 说实话，列表里地方的高清台再往后的那些台，平时基本不看…不能说基本吧，应该是根本不看……
 5. EPG节目单有时候儿不准，看个大概吧
 6. 有的频道有高清和非高清，节目信号一样的。只保留了高清，避免重复，非高清的全部删了
-7. 北京联通抓包得到的地址是239.3.1.X，该网段原始扫描到的列表文件为[IPTV-Unicom-Scan-A.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan-A.m3u "IPTV-Unicom-Scan-A.m3u")什么台都有，未经整理，另外另一个网段239.2.1.X我本地也可以看，文件为[IPTV-Unicom-Scan-B.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan-B.m3u "IPTV-Unicom-Scan-B.m3u")，仅作参考
+7. 北京联通抓包得到的地址是239.3.1.X，该网段原始扫描到的列表文件为[IPTV-Unicom-Scan-A.m3u](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom-Scan-A.m3u "IPTV-Unicom-Scan-A.m3u")什么台都有，未经整理，另外另一个网段239.2.1.X我本地也可以看，文件为[IPTV-Unicom-Scan-B.m3u](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/IPTV-Unicom-Scan-B.m3u "IPTV-Unicom-Scan-B.m3u")，仅作参考
 8. 恕无法提供抓包的原始文件，文件里边有私人的信息，包括时移地址什么的。如果脱敏，那和上述已提供的列表就没啥区别了
 9. 本项目的issues我关闭了。如果你想反馈问题或者提出宝贵的意见建议，总之你真心想联系我的话，你总会想到办法的：）
-10. 来源于[zzl360](https://github.com/zzl360 "zzl360")（sdhzdmzzl）的组播扫描工具[iptvscanner.7z](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/iptvscanner.7z "iptvscanner.7z")是win x64版本，使用方法为“iptvscanner.exe 起始IP 终止IP 超时（毫秒）”，例如“iptvscanner.exe 239.3.1.1 239.3.1.255 2000”，如不填写超时参数，默认1500毫秒。
+10. 来源于[zzl360](https://github.com/zzl360 "zzl360")（sdhzdmzzl）的组播扫描工具[iptvscanner.7z](https://raw.githubusercontent.com/herbertgao/Beijing-IPTV/master/iptvscanner.7z "iptvscanner.7z")是win x64版本，使用方法为“iptvscanner.exe 起始IP 终止IP 超时（毫秒）”，例如“iptvscanner.exe 239.3.1.1 239.3.1.255 2000”，如不填写超时参数，默认1500毫秒。
 
 ------------
 
@@ -110,7 +80,7 @@
 
 ## 如果你压根儿不知道该如何使用以上的列表看IPTV，可以参考下面这篇文章
 
-[https://github.com/qwerttvv/Beijing-IPTV/blob/master/howto.md](https://github.com/qwerttvv/Beijing-IPTV/blob/master/howto.md "https://github.com/qwerttvv/Beijing-IPTV/blob/master/howto.md")
+[https://github.com/herbertgao/Beijing-IPTV/blob/master/howto.md](https://github.com/herbertgao/Beijing-IPTV/blob/master/howto.md "https://github.com/herbertgao/Beijing-IPTV/blob/master/howto.md")
 
 ------------
 
